@@ -1,0 +1,6 @@
+{
+  "extensions": [
+    {"name": "library_importer", "url": "https://github.com/vpinfe/extension-library-importer"},
+    {"name": "vpinplay", "url": "https://github.com/vpinfe/extension-vpinplay"}
+  ]
+}
